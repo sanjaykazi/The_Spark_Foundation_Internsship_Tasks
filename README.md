@@ -9,10 +9,18 @@ This Internship provides us six tasks and I am currently working on the task.
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-**Task 1**  ***Prediction using Supervised ML*** [Beginner]
+**Task: 1**  ***Prediction using Supervised ML*** [Beginner]
 
 - Predict the percentage of an student based on the no. of study hours
 - Data can be found at http://bit.ly/w-data
 - What will be predicted score if a student studies for 9.25 hrs/ day?
 - My work on the task can be found at my <a href="https://github.com/sanjaykazi/The_Spark_Foundation_Internsship_Tasks/blob/main/Task_1.ipynb">github</a> repo.
-- 
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+**Task: 2**  ***Prediction using Supervised ML*** [Beginner]
+
+- From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually
+- Data can be found at https://bit.ly/3kXTdox
+- My work on the task can be found at my <a href="https://github.com/sanjaykazi/The_Spark_Foundation_Internsship_Tasks/blob/main/Task_2.ipynb">github</a> repo.
