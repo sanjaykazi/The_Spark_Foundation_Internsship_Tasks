@@ -9,4 +9,4 @@ This Internship provides us six tasks and I am currently working on the task.
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-**Task 1** ## Prediction using Supervised ML [Beginner]
+**Task 1**  ***Prediction using Supervised ML [Beginner]***
