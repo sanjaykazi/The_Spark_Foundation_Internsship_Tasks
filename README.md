@@ -36,7 +36,7 @@ This Internship provides us six tasks and I am currently working on the task.
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-**Task: 4**  ***EDA on Terror Attcaks*** [Beginner]
+**Task: 4**  ***EDA on Terror Attcaks*** [Intermediate]
 
 - FPerform ‘Exploratory Data Analysis’ on the provided dataset on terror attacks.
 - The task has been completed using Business visualising tool Tableau.
