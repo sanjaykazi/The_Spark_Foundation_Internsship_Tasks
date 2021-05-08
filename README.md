@@ -42,3 +42,12 @@ This Internship provides us six tasks and I am currently working on the task.
 - The task has been completed using Business visualising tool Tableau.
 - Data can be found at https://bit.ly/2TK5Xn5
 - My work on the task can be found at my <a href="https://github.com/sanjaykazi/The_Spark_Foundation_Internsship_Tasks/blob/main/Task_4.twb">github</a> repo.
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+**Task: 4**  ***EDA on Terror Attcaks*** [Intermediate]
+
+- FPerform ‘Exploratory Data Analysis’ on the provided dataset on Sports IPL.
+- The task has been completed using Python Jupyter notebook.
+- Data can be found at https://bit.ly/34SRn3b
+- My work on the task can be found at my <a href="https://github.com/sanjaykazi/The_Spark_Foundation_Internsship_Tasks/blob/main/Task_5.ipynb">github</a> repo.
