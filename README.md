@@ -45,7 +45,7 @@ This Internship provides us six tasks and I am currently working on the task.
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-**Task: 4**  ***EDA on Sports*** [Advanced]
+**Task: 5**  ***EDA on Sports*** [Advanced]
 
 - Perform ‘Exploratory Data Analysis’ on the provided dataset on Sports IPL.
 - The task has been completed using Python Jupyter notebook.
@@ -54,7 +54,7 @@ This Internship provides us six tasks and I am currently working on the task.
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-**Task: 4**  ***Prediction using Decision Tree Algorithm*** [Intermediate]
+**Task: 6**  ***Prediction using Decision Tree Algorithm*** [Intermediate]
 - Create the Decision Tree classifier and visualize it graphically
 - The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
 - Data can be found at https://bit.ly/3kXTdox
@@ -62,7 +62,7 @@ This Internship provides us six tasks and I am currently working on the task.
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-**Task: 4**  ***Prediction using Decision Tree Algorithm*** [Advanced]
+**Task: 7**  ***Prediction using Decision Tree Algorithm*** [Advanced]
 - Objective: Create a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news headlines
 - Stock to analyze and predict - SENSEX (S&P BSE SENSEX)
 - Download historical stock prices from https://in.finance.yahoo.com/
