@@ -59,3 +59,12 @@ This Internship provides us six tasks and I am currently working on the task.
 - The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
 - Data can be found at https://bit.ly/3kXTdox
 - My work on the task can be found at my <a href="https://github.com/sanjaykazi/The_Spark_Foundation_Internsship_Tasks/blob/main/Task_6.ipynb">github</a> repo.
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+**Task: 4**  ***Prediction using Decision Tree Algorithm*** [Advanced]
+- Objective: Create a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news headlines
+- Stock to analyze and predict - SENSEX (S&P BSE SENSEX)
+- Download historical stock prices from https://in.finance.yahoo.com/
+- Download textual (news) data from https://bit.ly/36fFPI6
+- My work on the task can be found at my <a href="https://github.com/sanjaykazi/The_Spark_Foundation_Internsship_Tasks/blob/main/Task_7.ipynb">github</a> repo.
