@@ -68,3 +68,11 @@ This Internship provides us six tasks and I am currently working on the task.
 - Download historical stock prices from https://in.finance.yahoo.com/
 - Download textual (news) data from https://bit.ly/36fFPI6
 - My work on the task can be found at my <a href="https://github.com/sanjaykazi/The_Spark_Foundation_Internsship_Tasks/blob/main/Task_7.ipynb">github</a> repo.
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+**Task: 7**  ***Timeline Analysis: Covid-19*** [Advanced]
+- Objective: Create a storyboard showing spread of Covid-19 cases in your country or any region (Asia, Europe, BRICS etc) using Tableau, Power BI or SAP
+- Identify interesting patterns and possible reasons helping Covid-19 sprea with basic as well as advanced charts
+- Dataset: Daily updated .csv file on https://bit.ly/30d2gdi
+- My work on the task can be found at my <a href="https://github.com/sanjaykazi/The_Spark_Foundation_Internsship_Tasks/tree/main/Task_8">github</a> repo.
