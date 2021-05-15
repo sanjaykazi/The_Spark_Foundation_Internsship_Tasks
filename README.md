@@ -7,7 +7,7 @@ The Internship Domain is **Data Science and Business Analytics**. It is a four w
 
 This Internship provides us eight tasks and I am currently working on the task.
 
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 **Task: 1**  ***Prediction using Supervised ML model*** [Beginner]
 
@@ -71,7 +71,7 @@ This Internship provides us eight tasks and I am currently working on the task.
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-**Task: 7**  ***Timeline Analysis: Covid-19*** [Advanced]
+**Task: 8**  ***Timeline Analysis: Covid-19*** [Advanced]
 - Objective: Create a storyboard showing spread of Covid-19 cases in your country or any region (Asia, Europe, BRICS etc) using Tableau, Power BI or SAP
 - Identify interesting patterns and possible reasons helping Covid-19 sprea with basic as well as advanced charts
 - Dataset: Daily updated .csv file on https://bit.ly/30d2gdi
